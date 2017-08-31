@@ -6,7 +6,6 @@ body {
 
 .page-title {
  font-family: 'futura', sans-serif;
- text-align: center;
  color: green; 
  border: 5px solid #fff;
 }
@@ -15,12 +14,12 @@ body {
  font-family: 'futura', sans-serif;
  font-weight: 300;
  underline: 2px solid;
- text-align: center;
+ 
 }
 
 .profile-body {
  color: green;
  font-family: 'futura', sans-serif;
- text-align: center;
+ 
 }
 
