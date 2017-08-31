@@ -12,6 +12,10 @@ body {
  border: 5px solid #fff;
 }
 
+.profile {
+ color: green;
+}
+
 .contact-info {
  font-family: 'futura', sans-serif;
  font-weight: 300;
