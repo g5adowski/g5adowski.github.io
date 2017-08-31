@@ -12,6 +12,7 @@
  color: black;
  font-family: 'futura', sans-serif;
  font-weight: 300;
- underline: 2px solid
+ underline: 2px solid;
+ text-align: center;
 }
  
