@@ -5,13 +5,14 @@
  border: 5px solid #fff;
 }
 
-
-
-
 .contact-info {
  font-family: 'futura', sans-serif;
  font-weight: 300;
  underline: 2px solid;
  text-align: center;
 }
+
+.Profile {
+ font-family: 'futura', sans-serif;
+ text-align: center;
  
