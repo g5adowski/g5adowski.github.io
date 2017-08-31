@@ -1,6 +1,8 @@
 .page-title {
  text-align: center;
- color: green;
+ color: green; 
+ border: 3px solid #fff;
+}
 
 
 
