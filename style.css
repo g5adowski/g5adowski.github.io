@@ -16,6 +16,9 @@ body {
  underline: 2px solid;
  
 }
+.h2 {
+ color: green;
+ font-family: 'futura', sans-serif;
 
 .profile-body {
  color: green;
