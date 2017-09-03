@@ -3,7 +3,7 @@ body {
  font-family: 'futura', sans-serif;
  border: 2px;
 }
-.div1 {
+div {
  border: 2px;
 }
 
@@ -12,7 +12,6 @@ body {
 .page-title {
  font-family: 'futura', sans-serif;
  color: green; 
- border: 5px solid #fff;
 }
 
 .profile {
