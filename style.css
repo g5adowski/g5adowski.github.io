@@ -36,7 +36,9 @@ p {
  font-weight: 300;
  underline: 2px solid;
 }
- 
+.list {
+ text-align: left;
+}
 
 
 
