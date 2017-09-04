@@ -17,14 +17,13 @@ p {
 .page-title {
  border: 1px solid #fff;
  color: gold;
+ background-color: #fff;
 }
 
 .category {
  color: green;
 }
 
-.profile-info {
-}
 
 .contact-info {
  font-weight: 300;
