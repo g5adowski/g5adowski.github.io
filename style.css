@@ -1,5 +1,4 @@
 body {
- background color: yellow;
  text-align: center;
  font-family: 'futura', sans-serif;
 
@@ -8,14 +7,16 @@ div {
 
 }
 
-
+p { 
+ max-width: 800px;
+}
 
 .page-title {
  border: 1px solid #fff;
  color: green; 
 }
 
-.profile {
+.category {
  color: green;
 }
 
@@ -23,14 +24,11 @@ div {
 }
 
 .contact-info {
- font-family: 'futura', sans-serif;
  font-weight: 300;
  underline: 2px solid;
 }
  
-.experience {
- color: green;
-}
+
 
 
  
