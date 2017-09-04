@@ -9,6 +9,7 @@ div {
 
 p { 
  max-width: 800px;
+ text-align: center;
 }
 
 .page-title {
