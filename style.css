@@ -6,14 +6,15 @@ body {
 
 
 page-title {
- color: gold;
+ color: green;
 }
 .title{
  color: gold;
  text-align: left;
  }
  
- 
+.employer{
+  color: blue;
 }
 .content {
  text-align: center;
