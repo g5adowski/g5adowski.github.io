@@ -26,7 +26,7 @@ header {
 
 
 .page-title {
- color: green;
+ color: red;
  
 }
 .title{
@@ -61,7 +61,7 @@ p {
 }
 .list {
  text-align: center;
- color: red;
+ color: green;
 }
 
 
