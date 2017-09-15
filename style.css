@@ -3,6 +3,7 @@ body {
  font-family: 'futura', sans-serif;
  background-image: url:("https://cdn.sparkfun.com/assets/3/0/f/5/4/5182a0bbce395f021d000000.jpg");
  margin: 200px;
+ background-attachement: fixed;
 }
 
 
