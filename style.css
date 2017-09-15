@@ -2,7 +2,9 @@ body {
  text-align: left;
  font-family: 'futura', sans-serif;
 }
- 
+head {
+ color: gold;
+}
 
 
 page-title {
