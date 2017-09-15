@@ -5,6 +5,7 @@ body {
  margin: 300px;
  background-attachment: fixed;
  background-repeat: no-repeat;
+ text-weight: bold;
 }
 div.transbox {
     background-color: #yellow;
