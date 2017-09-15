@@ -1,5 +1,5 @@
 body {
- text-align: center;
+ text-align: left;
  font-family: 'futura', sans-serif;
 }
  
@@ -10,26 +10,26 @@ page-title {
 }
 .title{
  color: gold;
- text-align: center;
+ text-align: left;
  }
  
 .employer{
   color: blue;
- text-align: center;
+ text-align: left;
 }
 .content {
- text-align: center;
+ text-align: left;
 
 
 }
 
 p { 
- text-align: center;
+ text-align: left;
 }
 
 .category {
  color: green;
- text-align: center;
+ text-align: left;
 }
 
 
@@ -38,8 +38,8 @@ p {
  underline: 2px solid;
 }
 .list {
- text-align: center;
- color: pink;
+ text-align: left;
+ color: red;
 }
 
 
