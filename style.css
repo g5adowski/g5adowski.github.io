@@ -5,14 +5,14 @@ body {
  margin: 300px;
  background-attachment: fixed;
  background-repeat: no-repeat;
- text-weight: bold;
- background-opacity: 0.6;
 }
+
 div.transbox {
     background-color: #yellow;
     border: 3px solid black;
     opacity: 0.6;
     filter: alpha(opacity=60); /* For IE8 and earlier */
+    font-weight: bold;
 }
 
 div.transbox {
