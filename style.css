@@ -30,6 +30,7 @@ header {
 .page-title {
  color: gold;
  font-weight: bold;
+ position: relative;
  
 }
 .title{
