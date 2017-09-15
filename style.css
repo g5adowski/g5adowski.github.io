@@ -59,6 +59,7 @@ p {
 .contact-info {
  font-weight: 300;
  underline: 2px solid;
+ color: green;
 }
 .list {
  text-align: center;
