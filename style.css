@@ -27,6 +27,7 @@ header {
 
 .page-title {
  color: green;
+ position: fixed;
 }
 .title{
  color: gold;
