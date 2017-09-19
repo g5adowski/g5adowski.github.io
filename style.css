@@ -29,24 +29,24 @@ header {
 
 
 .page-title {
- color: orange;
+ color: red;
  font-weight: bold;
  position: relative;
 }
 
 .title{
- color: black;
+ color: red;
  }
  
 .employer{
-  color: blue;
+  color: teal;
 }
 
 .content {
 }
 
 p { 
- color: green;
+ color: black;
 }
 
 .category {
@@ -57,12 +57,12 @@ p {
 .contact-info {
  font-weight: 300;
  underline: 2px solid;
- color: green;
+ color: black;
 }
 
 .list {
  text-align: left;
- color: green;
+ color: black;
 }
 
 
