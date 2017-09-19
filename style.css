@@ -36,7 +36,7 @@ header {
  }
  
 .employer{
-  color: black;
+  color: #474646;
  font-family: 'georgia', 'futura';
 }
 
@@ -44,25 +44,25 @@ header {
 }
 
 p { 
- color: black;
+ color: #474646;
  font-size: 13px;
  font-family: 'georgia', 'futura';
 }
 
 .category {
- color: #474646;
+ color: #383736;
  text-align: center;
 }
 
 .contact-info {
  underline: 2px solid;
- color: black;
+ color: #474646;
  font-family: 'georgia';
 }
 
 .list {
  text-align: left;
- color: black;
+ color: #474646;
  font-size: 13px;
  font-family: 'georgia', 'futura';
 }
