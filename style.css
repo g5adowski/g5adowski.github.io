@@ -11,7 +11,7 @@ body {
     border: 3px solid black;
     opacity: 0.6;
     filter: alpha(opacity=20); /* For IE8 and earlier */
-    font-weight: bold;
+    font-weight: light;
 }
 
 .transbox {
@@ -57,7 +57,7 @@ p {
 .contact-info {
  underline: 2px solid;
  color: black;
- font-famliy: 'futura';
+ font-family: 'futura';
 }
 
 .list {
