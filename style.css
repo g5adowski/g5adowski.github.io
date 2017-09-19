@@ -8,7 +8,7 @@ body {
  
 }
 
-div.transbox {
+transbox {
     background-color: #yellow;
     border: 3px solid black;
     opacity: 0.6;
@@ -17,7 +17,7 @@ div.transbox {
     background-color: black;
 }
 
-div.transbox {
+transbox {
     margin: 5%;
     font-weight: bold;
     color: #000000;
