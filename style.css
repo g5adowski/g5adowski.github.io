@@ -32,12 +32,12 @@ header {
 
 .title{
  color: black;
- font-family: 'futura';
+ font-family: 'georgia', 'futura';
  }
  
 .employer{
   color: black;
- font-family: 'futura';
+ font-family: 'georgia', 'futura';
 }
 
 .content {
@@ -46,7 +46,7 @@ header {
 p { 
  color: black;
  font-size: 13px;
- font-family: 'futura';
+ font-family: 'georgia', 'futura';
 }
 
 .category {
@@ -57,14 +57,14 @@ p {
 .contact-info {
  underline: 2px solid;
  color: black;
- font-family: 'futura';
+ font-family: 'georgia';
 }
 
 .list {
  text-align: left;
  color: black;
  font-size: 13px;
- font-family: 'futura';
+ font-family: 'georgia', 'futura';
 }
 
 
