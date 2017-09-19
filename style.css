@@ -34,10 +34,12 @@ header {
 
 .title{
  color: black;
+ font-family: 'futura';
  }
  
 .employer{
   color: black;
+ font-family: 'futura';
 }
 
 .content {
@@ -46,6 +48,7 @@ header {
 p { 
  color: black;
  font-size: 13px;
+ font-family: 'futura';
 }
 
 .category {
@@ -62,6 +65,7 @@ p {
  text-align: left;
  color: black;
  font-size: 13px;
+ font-family: 'futura';
 }
 
 
