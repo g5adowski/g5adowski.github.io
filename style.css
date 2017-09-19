@@ -48,7 +48,7 @@ header {
 
 p { 
  color: black;
- font-size: h5;
+ font-size: 6px;
 }
 
 .category {
@@ -65,7 +65,7 @@ p {
 .list {
  text-align: left;
  color: black;
- font-size: h5;
+ font-size: 6px;
 }
 
 
