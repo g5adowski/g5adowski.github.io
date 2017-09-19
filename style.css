@@ -8,7 +8,7 @@ body {
  
 }
 
-transbox {
+.transbox {
     border: 3px solid black;
     opacity: 0.6;
     filter: alpha(opacity=60); /* For IE8 and earlier */
@@ -16,7 +16,7 @@ transbox {
     background-color: black;
 }
 
-transbox {
+.transbox {
     margin: 5%;
     font-weight: bold;
     color: #000000;
