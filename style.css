@@ -59,6 +59,7 @@ p {
 .contact-info {
  underline: 2px solid;
  color: black;
+ font-famliy: 'futura';
 }
 
 .list {
