@@ -3,7 +3,7 @@ body {
  font-family: 'andale mono', sans-serif;
  background-image: url:("https://atomicscout.files.wordpress.com/2015/05/construction-of-the-atomium.png");
  margin: 300px;
- background-attachment: relative;
+ background-attachment: fixed;
  background-repeat: no-repeat;
 }
 
