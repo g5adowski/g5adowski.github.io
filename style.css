@@ -9,7 +9,6 @@ body {
 }
 
 transbox {
-    background-color: #yellow;
     border: 3px solid black;
     opacity: 0.6;
     filter: alpha(opacity=60); /* For IE8 and earlier */
@@ -30,26 +29,21 @@ header {
 
 
 .page-title {
- color: gold;
+ color: orange;
  font-weight: bold;
  position: relative;
- background-color: blue;
- 
 }
+
 .title{
  color: black;
- text-align: center;
  }
  
 .employer{
   color: blue;
- text-align: center;
 }
 
 .content {
  text-align: center;
-
-
 }
 
 p { 
@@ -61,12 +55,12 @@ p {
  text-align: center;
 }
 
-
 .contact-info {
  font-weight: 300;
  underline: 2px solid;
  color: green;
 }
+
 .list {
  text-align: left;
  color: green;
